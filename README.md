@@ -17,6 +17,7 @@ I am always working on something new. Keep a eye on the [roadmap](https://github
 - [ThemeFork](https://github.com/DevAldon/JOLT-ThemeFork)
 - [Gate](https://github.com/DevAldon/JOLT-Gate)
 - [Cleanify](https://github.com/DevAldon/JOLT-Cleanify)
+- [WP Maintanance Mode](https://github.com/ByAldon/WP-Maintanance-Mode)
 
 ---
 
