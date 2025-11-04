@@ -13,7 +13,7 @@ I believe in full transparency throughout my development process. All Aldon proj
 - **Open Source:** All source code is publicly available for review, improvement, and community collaboration.
 - **Transparent:** All development decisions, changes, and issues are documented openly, fostering trust and accountability.
 
-If you have any questions about my development approach or want to contribute, [feel free to reach out](mailto:johntmnlatwork@proton.me)!
+If you have any questions about my development approach or want to contribute, [feel free to reach out](mailto:byaldon@proton.me)!
 
 ---
 
