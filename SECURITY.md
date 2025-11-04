@@ -1,19 +1,19 @@
 # Security, Privacy & Usage Policy
 
-Welcome to the security, privacy, and usage policy for all JOLT projects. This document explains how we handle security issues, privacy matters, and the permitted use of the code within all repositories under the JOLT name, including the WordPress plugins and themes index.
+Welcome to the security, privacy, and usage policy for all Aldon projects. This document explains how we handle security issues, privacy matters, and the permitted use of the code within all repositories under the Aldon name, including the WordPress plugins and themes index.
 
 ---
 
 ## Project Philosophy
 
-I believe in full transparency throughout my development process. All JOLT projects are:
+I believe in full transparency throughout my development process. All Aldon projects are:
 
 - **Privacy-focused:** User data is never collected without explicit consent, and privacy is a core design principle.
 - **Secure by design:** Security considerations are integrated from the start, and vulnerabilities are addressed promptly.
 - **Open Source:** All source code is publicly available for review, improvement, and community collaboration.
 - **Transparent:** All development decisions, changes, and issues are documented openly, fostering trust and accountability.
 
-If you have any questions about my development approach or want to contribute, feel free to reach out!
+If you have any questions about my development approach or want to contribute, [feel free to reach out](mailto:johntmnlatwork@proton.me)!
 
 ---
 
@@ -39,12 +39,12 @@ I appreciate it if you report discovered vulnerabilities privately first and all
 
 ### Transparency and Privacy
 
-JOLT projects do not process or store any personal data from users unless explicitly stated otherwise.
+Aldon projects do not process or store any personal data from users unless explicitly stated otherwise.
 
 #### What data do we process?
 
 - **Publicly available data:** Only data that is already publicly visible on GitHub or in the respective project repositories.
-- **No tracking:** We do not use tracking or analytics tools in JOLT projects unless clearly documented.
+- **No tracking:** We do not use tracking or analytics tools in Aldon projects unless clearly documented.
 - **No external data sharing:** Data from these projects is not shared with third parties.
 
 #### Your rights
@@ -55,7 +55,7 @@ If you believe that privacy-sensitive information is present in any JOLT reposit
 
 ## 3. Usage & License
 
-All JOLT projects in this repository are related to WordPress and are subject to the GNU General Public License (GPL), as required by WordPress.
+All Aldon projects in this repository are related to WordPress and are subject to the GNU General Public License (GPL), as required by WordPress.
 
 - **Permitted Use:**  
   - You are free to use, study, modify, and redistribute the code, as long as you comply with the terms of the GPL.
