@@ -18,9 +18,3 @@ I am always working on something new. Keep a eye on the [roadmap](https://github
 - [Gate](https://github.com/DevAldon/JOLT-Gate)
 - [Cleanify](https://github.com/DevAldon/JOLT-Cleanify)
 - [WP Maintanance Mode](https://github.com/ByAldon/WP-Maintanance-Mode)
-
----
-
-### Thema's
-
-- [JOLT One](https://github.com/DevAldon/JOLT-One) (In Progress)
