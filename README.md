@@ -5,8 +5,6 @@ Here I'll be indexing plugins and themes I've created for WordPress.<br>
 
 All the plugins and or themes that i present to you are [privacy focused, secure and open source](https://github.com/DevAldon/WordPress/blob/main/SECURITY.md).
 
-I am always working on something new. Keep a eye on the [roadmap](https://github.com/users/DevAldon/projects/11) for what is coming:
-
 ---
 
 ### Plugins
