@@ -21,7 +21,7 @@ If you have any questions about my development approach or want to contribute, f
 
 ### Reporting a Vulnerability
 
-If you have found a security issue in any JOLT project, please report it as follows:
+If you have found a security issue in any Aldon project, please report it as follows:
 
 - **Send a direct message via X (formerly Twitter):** [https://x.com/ByAldon](https://x.com/ByAldon)
 - **Include as subject:** Security Issue
@@ -49,7 +49,7 @@ Aldon projects do not process or store any personal data from users unless expli
 
 #### Your rights
 
-If you believe that privacy-sensitive information is present in any JOLT repository, please contact us via [https://x.com/ByAldon](https://x.com/ByAldon) so i can correct or remove it.
+If you believe that privacy-sensitive information is present in any Aldon repository, please contact us via [https://x.com/ByAldon](https://x.com/ByAldon) so i can correct or remove it.
 
 ---
 
@@ -81,4 +81,4 @@ Thank you for your help in keeping JOLT projects secure, privacy-friendly, and r
 
 ---
 
-(Last update is made on 11-04-2025)
+(Last update is made on 11-13-2025)
