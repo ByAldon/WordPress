@@ -16,3 +16,9 @@ All the plugins and or themes that i present to you are [privacy focused, secure
 - [Gate](https://github.com/DevAldon/JOLT-Gate)
 - [Cleanify](https://github.com/DevAldon/JOLT-Cleanify)
 - [WP Maintanance Mode](https://github.com/ByAldon/WP-Maintanance-Mode)
+
+
+---
+
+See what is more to come in the roadmap
+https://github.com/ByAldon/WordPress/tree/roadmap
