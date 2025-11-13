@@ -20,5 +20,5 @@ All the plugins and or themes that i present to you are [privacy focused, secure
 
 ---
 
-See what is more to come in the roadmap
+See what is more to come in the roadmap.
 https://github.com/ByAldon/WordPress/tree/roadmap
