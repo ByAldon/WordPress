@@ -10,7 +10,6 @@ All the plugins and or themes that i present to you are [privacy focused, secure
 ### Plugins
 
 - [Dashboard Notes](https://github.com/DevAldon/JOLT-Dashboard-Notes)
-- [UploadFlex](https://github.com/DevAldon/JOLT-UploadFlex/tree/main)
 - [LoadSense](https://github.com/DevAldon/JOLT-LoadSense)
 - [ThemeFork](https://github.com/DevAldon/JOLT-ThemeFork)
 - [Gate](https://github.com/DevAldon/JOLT-Gate)
