@@ -12,7 +12,6 @@ All the plugins and or themes that i present to you are [privacy focused, secure
 - [Dashboard Notes](https://github.com/DevAldon/JOLT-Dashboard-Notes)
 - [LoadSense](https://github.com/DevAldon/JOLT-LoadSense)
 - [ThemeFork](https://github.com/DevAldon/JOLT-ThemeFork)
-- [Gate](https://github.com/DevAldon/JOLT-Gate)
 - [Cleanify](https://github.com/DevAldon/JOLT-Cleanify)
 - [WP Maintanance Mode](https://github.com/ByAldon/WP-Maintanance-Mode)
 
