@@ -1,3 +1,4 @@
+<center><img width="550" alt="WordPress-Logo" src="https://github.com/user-attachments/assets/ee55fdab-bc1c-4aa7-8ce7-42a2f6abd524" /></center>
 
 # WordPress
 
