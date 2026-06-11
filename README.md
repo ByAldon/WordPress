@@ -20,5 +20,6 @@ All the plugins and or themes that i present to you are [privacy focused, secure
 ---
 
 # Cleaned plugins
-There are also existing plugins already in the marketplace. 
+There are also existing plugins already in the marketplace.<br>
 These have been modified to prioritize privacy and security.
+You can find them <a href="https://github.com/ByAldon/WordPress/tree/main/Cleaned%20plugins">here</a>.
