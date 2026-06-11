@@ -1,3 +1,4 @@
+
 # WordPress
 
 <br>
@@ -18,5 +19,6 @@ All the plugins and or themes that i present to you are [privacy focused, secure
 
 ---
 
-See what is more to come in the [roadmap](https://github.com/ByAldon/WordPress/tree/roadmap).
-
+# Cleaned plugins
+There are also existing plugins already in the marketplace. 
+These have been modified to prioritize privacy and security.
