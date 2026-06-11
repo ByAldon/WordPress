@@ -1,84 +1,59 @@
-# Security, Privacy & Usage Policy
+# Security Policy
 
-Welcome to the security, privacy, and usage policy for all Aldon projects. This document explains how we handle security issues, privacy matters, and the permitted use of the code within all repositories under the Aldon name, including the WordPress plugins and themes index.
+This security policy applies to Aldon / ByAldon projects in this repository.
 
----
+## Reporting Security Issues
 
-## Project Philosophy
+If you discover a security issue, vulnerability, or privacy concern, please do not share sensitive details publicly.
 
-I believe in full transparency throughout my development process. All Aldon projects are:
+For the most up-to-date contact information, please visit:
 
-- **Privacy-focused:** User data is never collected without explicit consent, and privacy is a core design principle.
-- **Secure by design:** Security considerations are integrated from the start, and vulnerabilities are addressed promptly.
-- **Open Source:** All source code is publicly available for review, improvement, and community collaboration.
-- **Transparent:** All development decisions, changes, and issues are documented openly, fostering trust and accountability.
+https://github.com/ByAldon
 
-If you have any questions about my development approach or want to contribute, feel free to reach out at: byaldon@proton.me
+When reporting a security issue, please include as much useful information as possible, such as:
 
----
+- A clear description of the issue.
+- Steps to reproduce the problem.
+- The affected plugin, theme, repository, or file.
+- Screenshots or logs, if relevant.
+- Any suggested fix, if you already have one.
 
-## 1. Security Policy
+## Responsible Disclosure
 
-### Reporting a Vulnerability
+Please report security issues privately first and allow time for the issue to be reviewed and fixed before making details public.
 
-If you have found a security issue in any Aldon project, please report it as follows:
+## Privacy
 
-- **Send a direct message via Bluesky:** <a href="https://bsky.app/profile/johninmotion.bsky.social">@johninmotion.bsky.social</a>  
-- **Include as subject:** Security Issue
-- **Clearly describe the problem and provide steps to reproduce if possible.**
+Aldon / ByAldon projects are intended to be privacy-focused.
 
-I aim to respond to reported vulnerabilities as soon as i can.
+Unless clearly documented otherwise:
 
-### Responsible Disclosure
+- No unnecessary tracking is added.
+- No personal data is collected by default.
+- No data is shared with third parties by the project itself.
+- External services are avoided where possible or clearly documented when required.
 
-I appreciate it if you report discovered vulnerabilities privately first and allow us the opportunity to resolve them before disclosing any details publicly.
+## Open Source and Licensing
 
----
+Projects in this repository are open source.
 
-## 2. Privacy Policy
+WordPress-related plugins and themes are released under the GPL or a GPL-compatible license where required.
 
-### Transparency and Privacy
+You are free to use, study, modify, and redistribute the code, as long as you follow the applicable license terms.
 
-Aldon projects do not process or store any personal data from users unless explicitly stated otherwise.
+## Cleaned Plugins Notice
 
-#### What data do we process?
+Some repositories or folders may contain cleaned or modified builds of existing WordPress plugins.
 
-- **Publicly available data:** Only data that is already publicly visible on GitHub or in the respective project repositories.
-- **No tracking:** We do not use tracking or analytics tools in Aldon projects unless clearly documented.
-- **No external data sharing:** Data from these projects is not shared with third parties.
+These builds are intended for privacy hardening, security cleanup, reduced promotional clutter, and update-locking.
 
-#### Your rights
+They do not unlock paid features, bypass license checks, or remove protections from commercial plugins.
 
-If you believe that privacy-sensitive information is present in any Aldon repository, please contact us via <a href="https://bsky.app/profile/johninmotion.bsky.social">@johninmotion.bsky.social</a>   so i can correct or remove it.
+All plugin names, logos, trademarks, and original code remain the property of their respective owners.
 
----
+## Contact
 
-## 3. Usage & License
+For current contact details, project information, and official links, please visit:
 
-All Aldon projects in this repository are related to WordPress and are subject to the GNU General Public License (GPL), as required by WordPress.
+https://github.com/ByAldon
 
-- **Permitted Use:**  
-  - You are free to use, study, modify, and redistribute the code, as long as you comply with the terms of the GPL.
-- **Respect for Original Work:**  
-  - While the GPL allows modification and redistribution, I kindly ask that you give credit to the original author and maintain transparency about any changes you make.
-  - Please do not misrepresent your work as mine.
-  - If you have questions about proper use or attribution, feel free to contact me.
-
-By using these projects, you agree to respect both the letter and the spirit of the GPL license. For more information, see [GPL v3](https://www.gnu.org/licenses/gpl-3.0.html).
-
----
-
-## 4. Contact
-
-For any questions about security, privacy, or permitted use:
-
-- **Bluesky:**  <a href="https://bsky.app/profile/johninmotion.bsky.social">@johninmotion.bsky.social</a>  
-- **Issues:** You may also create a [GitHub Issue](../../issues), but never share sensitive information in a public issue.
-
----
-
-Thank you for your help in keeping Aldon projects secure, privacy-friendly, and respectful of the intended usage!
-
----
-
-(Last update is made on 11-06-2026)
