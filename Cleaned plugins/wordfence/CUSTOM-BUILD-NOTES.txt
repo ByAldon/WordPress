@@ -1,0 +1,25 @@
+Wordfence Security - Cleaned / Update-Locked Custom Build
+Version: 8.2.2.1
+
+This custom build was made for local/private use.
+
+What was changed:
+- Added an Update URI header to prevent WordPress.org from treating this custom build as the official WordPress.org package.
+- Blocked automatic plugin updates for wordfence/wordfence.php.
+- Removed Wordfence from the WordPress plugin auto-update list when this custom build is active.
+- Filtered WordPress update transients so this custom build is not silently replaced by an official package.
+- Blocked the WordPress.org plugin information/update popup for this plugin slug.
+- Disabled Wordfence's internal plugin auto-update cron path.
+- Disabled promotional, blog-highlight, and product-update notifications by default for new installs.
+- Made those non-security notification preferences respected for free installs too.
+
+What was NOT changed:
+- No Premium features were unlocked.
+- No license checks were bypassed.
+- No paid widgets/modules/features were activated.
+- No security scanner, firewall, malware-signature, or firewall-rule update functionality was intentionally disabled.
+- No Wordfence security API communication required for normal protection was intentionally removed.
+
+Recommended use:
+- Test on a staging/local WordPress install before using on a live website.
+- Keep a manual update plan, because automatic plugin replacement is intentionally blocked in this custom build.
