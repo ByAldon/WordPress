@@ -72,7 +72,7 @@ By using these projects, you agree to respect both the letter and the spirit of 
 
 For any questions about security, privacy, or permitted use:
 
-- **X (formerly Twitter):** [https://x.com/ByAldon](https://x.com/ByAldon)
+- **Bluesky:**  <a href="https://bsky.app/profile/johninmotion.bsky.social">@johninmotion.bsky.social</a>  
 - **Issues:** You may also create a [GitHub Issue](../../issues), but never share sensitive information in a public issue.
 
 ---
@@ -81,4 +81,4 @@ Thank you for your help in keeping JOLT projects secure, privacy-friendly, and r
 
 ---
 
-(Last update is made on 11-13-2025)
+(Last update is made on 11-06-2026)
