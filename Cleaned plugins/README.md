@@ -21,7 +21,3 @@ The plugins were reviewed and cleaned with a focus on security, privacy, stabili
 * Added custom version numbers to clearly identify the modified builds.
 * Performed PHP syntax checks on the modified files.
 * Tested the final ZIP packages for validity.
-
-### Important note
-
-These cleaned versions should be tested on a staging or local WordPress installation before being used on a live website. Some plugins, especially file manager or login-related plugins, can affect sensitive areas of a WordPress site and should only be used by trusted administrators.
