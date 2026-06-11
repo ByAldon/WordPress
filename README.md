@@ -1,8 +1,8 @@
-<center><img width="550" alt="WordPress-Logo" src="https://github.com/user-attachments/assets/ee55fdab-bc1c-4aa7-8ce7-42a2f6abd524" /></center>
+<p align="center">
+  <img width="550" alt="WordPress-Logo" src="https://github.com/user-attachments/assets/ee55fdab-bc1c-4aa7-8ce7-42a2f6abd524">
+</p>
 
-# WordPress
-
-<br>
+<br><br>
 Here I'll be indexing plugins and themes I've created for WordPress.<br>
 
 All the plugins and or themes that i present to you are [privacy focused, secure and open source](https://github.com/DevAldon/WordPress/blob/main/SECURITY.md).
