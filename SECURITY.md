@@ -23,7 +23,7 @@ If you have any questions about my development approach or want to contribute, f
 
 If you have found a security issue in any Aldon project, please report it as follows:
 
-- **Send a direct message via X (formerly Twitter):** [https://x.com/ByAldon](https://x.com/ByAldon)
+- **Send a direct message via Bluesky:** <a href="https://bsky.app/profile/johninmotion.bsky.social">@johninmotion.bsky.social</a>  
 - **Include as subject:** Security Issue
 - **Clearly describe the problem and provide steps to reproduce if possible.**
 
@@ -49,7 +49,7 @@ Aldon projects do not process or store any personal data from users unless expli
 
 #### Your rights
 
-If you believe that privacy-sensitive information is present in any Aldon repository, please contact us via [https://x.com/ByAldon](https://x.com/ByAldon) so i can correct or remove it.
+If you believe that privacy-sensitive information is present in any Aldon repository, please contact us via <a href="https://bsky.app/profile/johninmotion.bsky.social">@johninmotion.bsky.social</a>   so i can correct or remove it.
 
 ---
 
