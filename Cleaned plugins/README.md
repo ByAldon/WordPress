@@ -23,3 +23,7 @@ The plugins were reviewed and cleaned with a focus on security, privacy, stabili
 * Added custom version numbers to clearly identify the modified builds.
 * Performed PHP syntax checks on the modified files.
 * Tested the final ZIP packages for validity.
+
+---
+
+These modified builds are provided in the spirit of open source maintenance. They preserve the original licensing and attribution where applicable, clearly identify the changes made, and do not unlock paid features, bypass license checks, or misrepresent the original authors.
