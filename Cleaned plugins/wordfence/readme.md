@@ -1,0 +1,1 @@
+This modified build is provided in the spirit of open source maintenance. They preserve the original licensing and attribution where applicable, clearly identify the changes made, and do not unlock paid features, bypass license checks, or misrepresent the original authors.
