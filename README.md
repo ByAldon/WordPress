@@ -1,3 +1,5 @@
+## This application has been moved to another instance. No new updates will be posted here. Go to: https://github.com/ByAldon/I-am-leaving-github for more information.
+
 <p align="center">
   <img width="300" alt="WordPress logo" src="https://github.com/user-attachments/assets/ee55fdab-bc1c-4aa7-8ce7-42a2f6abd524">
 </p>
